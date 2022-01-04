@@ -1,7 +1,7 @@
 # 🏰 cezar.land
 Página de links pessoais. https://cezar.land
 
-<img width="1184" alt="Screen Shot 2021-07-22 at 10 40 01" src="https://user-images.githubusercontent.com/4672033/126648681-cf263e51-d5be-4ea6-a250-df241f2b418d.png">
+<img width="1184" alt="Screen Shot 2021-07-22 at 10 40 01" src="https://user-images.githubusercontent.com/4672033/148105642-c5d6a5fe-ec9e-4020-af02-a9218ca8a6c4.png">
 
 ## License
 
